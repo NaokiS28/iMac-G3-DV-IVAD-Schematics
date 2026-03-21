@@ -12512,7 +12512,7 @@
 			)
 		)
 	)
-	(global_label "GUN-VCC"
+	(global_label "CRT-78V"
 		(shape output)
 		(at 226.06 193.04 0)
 		(fields_autoplaced yes)
@@ -12524,7 +12524,7 @@
 		)
 		(uuid "27af04b5-af53-4f8d-bd1f-e8ec20210100")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.1772 193.04 0)
+			(at 237.6328 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12732,7 +12732,7 @@
 			)
 		)
 	)
-	(global_label "GUN-VCC"
+	(global_label "CRT-78V"
 		(shape input)
 		(at 171.45 36.83 180)
 		(fields_autoplaced yes)
@@ -12744,7 +12744,7 @@
 		)
 		(uuid "477e138e-5957-41d6-9685-18fcf4d4878f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.3328 36.83 0)
+			(at 159.8772 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13502,7 +13502,7 @@
 			)
 		)
 	)
-	(global_label "GUN-VBB"
+	(global_label "CRT-12V"
 		(shape input)
 		(at 170.18 40.64 180)
 		(fields_autoplaced yes)
@@ -13514,7 +13514,7 @@
 		)
 		(uuid "e7cc7708-fe23-4719-8b44-41ba02402540")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.0628 40.64 0)
+			(at 158.6072 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14030,8 +14030,8 @@
 				)
 			)
 		)
-		(property "Value" "L"
-			(at 270.51 118.11 90)
+		(property "Value" "155A?"
+			(at 273.05 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18071,7 +18071,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "155J?"
 			(at 307.34 29.845 90)
 			(effects
 				(font
@@ -19495,7 +19495,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "0.27uH ?"
 			(at 194.31 52.07 90)
 			(effects
 				(font
@@ -19765,7 +19765,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "0.27uH ?"
 			(at 194.31 69.215 90)
 			(effects
 				(font
@@ -26071,7 +26071,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "0.27uH ?"
 			(at 194.31 61.595 90)
 			(effects
 				(font
